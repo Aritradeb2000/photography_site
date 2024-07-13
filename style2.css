@@ -1,0 +1,63 @@
+.menu a{
+	text-decoration: none;
+	color: black;
+	font-size:20px;
+	
+	padding: 10px 20px;
+	font-family: sans-serif;
+
+}
+.menu a:first-child{
+	color:#e74c3c;
+}
+.menu a:hover{
+	color: #e74c3c;
+	transition: 0.4s;
+}
+.icon i{
+	font-size:20px;
+}
+.icon i:hover{
+	color: #e74c3c;
+}
+.icon a{
+	padding:10px 20px;
+	background:#e74c3c;
+	color:white;
+	text-decoration: none;
+	margin-left:30px;
+	border-radius: 5px;  
+}
+.icon a:hover{
+	background: transparent;
+	border:1px solid #e74c3c;
+	color: black;
+	transition: 0.4s ease;
+}
+.heading{
+	color: red;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	font-size: 	60px;
+	font-family: arial;
+
+}
+.paragraph{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    padding-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'georgia';
+    font-weight: bold; 
+    color: blue;
+}
+a{
+	text-align: center;
+	font-family: 'georgia';
+	font-size: 30px;
+	font-weight: bold;
+	color: red;
+}
